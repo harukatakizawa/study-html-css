@@ -1,7 +1,6 @@
 @media screen and (max-width: 1100px) {
-
+  
   .header-inner {
-    display: flex;
     padding: 16px 24px 14px 24px;
     box-sizing: border-box;
     transition: all 0.1s ease-in-out;
@@ -41,7 +40,7 @@
 
   .mission-inner {
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0 24px;
   }
 
   .container {
